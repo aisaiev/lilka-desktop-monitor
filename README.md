@@ -3,6 +3,9 @@
 Stream your computer screen to [Lilka](https://lilka.dev) device over WiFi. This firmware enables real-time display streaming to Lilka's 1.69" TFT display and is designed to integrate seamlessly with KeiraOS.
 Based on the ESP32 Desktop Monitor [project](https://github.com/tuckershannon/ESP32-Desktop-Monitor).
 
+## Demo
+[Demo](https://github.com/user-attachments/assets/e3f89c1c-7c5e-43ae-8d96-7c1c0c4f839b)
+
 ## Hardware Requirements
 
 ### Lilka Device
